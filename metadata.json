@@ -1,0 +1,5 @@
+{
+  "name": "Parenting Wellness Hub",
+  "description": "An AI-powered AppSheet application to support parents with personalized planners, meal assistants, and emotional well-being tools, with data managed via Google Sheets.",
+  "requestFramePermissions": []
+}
